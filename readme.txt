@@ -1,4 +1,4 @@
 Hello!
 Hey!
 random words
-some more randome words
+some more random words
